@@ -74,15 +74,3 @@ B.E. IT: .......... Xavier Institute (2018 - 2022)
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshadum&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshadum&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akshadum&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
